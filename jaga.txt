@@ -1,1 +1,2 @@
-say name 
+go to school
+
